@@ -1,0 +1,61 @@
+C:\Users\rqb3r\source\repos\BR\BR\obj\Debug\BR.csprojAssemblyReference.cache
+C:\Users\rqb3r\source\repos\BR\BR\obj\Debug\BR.Form1.resources
+C:\Users\rqb3r\source\repos\BR\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\rqb3r\source\repos\BR\BR\obj\Debug\BR.csproj.GenerateResource.cache
+C:\Users\rqb3r\source\repos\BR\BR\bin\Debug\BR.exe.config
+C:\Users\rqb3r\source\repos\BR\BR\bin\Debug\BR.exe
+C:\Users\rqb3r\source\repos\BR\BR\bin\Debug\BR.pdb
+C:\Users\rqb3r\source\repos\BR\BR\bin\Debug\itextsharp.dll
+C:\Users\rqb3r\source\repos\BR\BR\bin\Debug\itextsharp.xml
+C:\Users\rqb3r\source\repos\BR\BR\obj\Debug\BR.csproj.CopyComplete
+C:\Users\rqb3r\source\repos\BR\BR\obj\Debug\BR.exe
+C:\Users\rqb3r\source\repos\BR\BR\obj\Debug\BR.pdb
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\bin\Debug\BR.exe.config
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\bin\Debug\BR.exe
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\bin\Debug\BR.pdb
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\bin\Debug\itextsharp.dll
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\bin\Debug\itextsharp.xml
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\obj\Debug\BR.csprojAssemblyReference.cache
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\obj\Debug\BR.Form1.resources
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\obj\Debug\BR.csproj.GenerateResource.cache
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\obj\Debug\BR.csproj.CopyComplete
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\obj\Debug\BR.exe
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR V2\BR\BR\obj\Debug\BR.pdb
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\bin\Debug\BR.exe.config
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\bin\Debug\BR.exe
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\bin\Debug\BR.pdb
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\bin\Debug\itextsharp.dll
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\bin\Debug\itextsharp.xml
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\obj\Debug\BR.csprojAssemblyReference.cache
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\obj\Debug\BR.Form1.resources
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\obj\Debug\BR.csproj.GenerateResource.cache
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\obj\Debug\BR.csproj.CopyComplete
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\obj\Debug\BR.exe
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BR\BR\obj\Debug\BR.pdb
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\bin\Debug\BR.exe.config
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\bin\Debug\BR.exe
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\bin\Debug\BR.pdb
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\bin\Debug\itextsharp.dll
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\bin\Debug\itextsharp.xml
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\obj\Debug\BR.csprojAssemblyReference.cache
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\obj\Debug\BR.Form1.resources
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\obj\Debug\BR.csproj.GenerateResource.cache
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\obj\Debug\BR.csproj.CopyComplete
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\obj\Debug\BR.exe
+C:\Users\laurentiu.dumitru\Desktop\Proiect BR\BRP\BR\obj\Debug\BR.pdb
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\bin\Debug\BR.exe.config
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\bin\Debug\BR.exe
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\bin\Debug\BR.pdb
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\bin\Debug\itextsharp.dll
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\bin\Debug\itextsharp.xml
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\obj\Debug\BR.csprojAssemblyReference.cache
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\obj\Debug\BR.Form1.resources
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\obj\Debug\BR.csproj.GenerateResource.cache
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\obj\Debug\BR.csproj.CoreCompileInputs.cache
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\obj\Debug\BR.csproj.CopyComplete
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\obj\Debug\BR.exe
+C:\Users\Laurentiu\Desktop\BR\BRP\BR\obj\Debug\BR.pdb
